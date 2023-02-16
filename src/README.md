@@ -23,8 +23,6 @@ before the event. Here is a list of known bugs:
 - I forgot to adjust the battery voltage to calculate the battery
   level. The device may show that a battery is empty or it is not
   plugged in.
-- A 3D model has minor misalignments that I did not bother to fix,
-  e.g. a LED is 0.1-0.2mm off to the left.
 
 ## Assembly
 
