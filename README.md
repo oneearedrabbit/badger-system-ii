@@ -1,6 +1,6 @@
 # Badger2040 System II
 
-Tired of boring badges that just blend in with the crowd? You want to show off your quirky personality and love of retro technology? You looking for a fun project to bond with your engineering team? Look no further than the programmable e-ink badge!
+Tired of boring badges that just blend in with the crowd? You want to show off your quirky personality and love of retro technology? You are looking for a fun project to bond with your engineering team? Look no further than the programmable e-ink badge!
 
 https://kruzenshtern.org/the-e-ink-badge-the-coolest-badge-you-didnt-know-you-needed/
 
