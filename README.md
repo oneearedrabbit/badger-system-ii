@@ -16,7 +16,7 @@ Don't expect much, but it works (tm). See in /src.
 2. Coin Cell Battery Holder: https://www.adafruit.com/product/783
 3. 2x CR2032: https://www.amazon.com/gp/product/B078GC5K81/
 4. 4x M2 8mm bolts: https://www.amazon.com/gp/product/B01BNIHG0E/
-5. 3D-printed case: see /case folder
+5. 3D-printed case: see /case folder. I was using Prusament PLA: https://www.prusa3d.com/product/prusament-pla-ms-pink-blend-970g/
 
 ## A quick glance at assembly steps
 
