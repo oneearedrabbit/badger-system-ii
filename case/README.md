@@ -9,8 +9,10 @@ long time. Also comes with a battery toggle switch to shut everything down.
 Steps:
 - 3D print top and bottom panels. PLA plastic is good enough.
 - Disassemble & attach a 2xCR2032 battery holder
-  https://www.adafruit.com/product/783
+  https://www.adafruit.com/product/783.
 - Assemble the badge, use hot glue whenever applicable
+
+![image](https://user-images.githubusercontent.com/198995/219485328-1d66b0d7-2c20-477a-9fee-6ed1c341de5f.png)
 
 ## Known bugs
 
