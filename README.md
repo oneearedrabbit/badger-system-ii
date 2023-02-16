@@ -20,5 +20,6 @@ Don't expect much, but it works (tm). See in /src.
 
 1. 3D print top and bottom panels. 
 2. Disassemble & attach a 2xCR2032 battery holder
-3. Upload pimonori-badger2040-micropython bootloader
-4. Upload Python scripts
+3. Assemble the badge, use hot glue whenever applicable
+4. Upload pimonori-badger2040-micropython bootloader
+5. Upload Python scripts
