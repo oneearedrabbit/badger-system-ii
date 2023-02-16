@@ -19,6 +19,6 @@ Don't expect much, but it works (tm).
 ## A quick glance at assembly steps
 
 1. 3D print top and bottom panels. 
-2. Disassemble & attach a 2xCR2032 battery holder https://www.adafruit.com/product/783
+2. Disassemble & attach a 2xCR2032 battery holder
 3. Upload pimonori-badger2040-micropython bootloader
 4. Upload Python scripts
