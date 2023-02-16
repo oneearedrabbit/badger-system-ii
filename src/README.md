@@ -25,10 +25,17 @@ before the event. Here is a list of known bugs:
 - Upload pimonori-badger2040-micropython bootloader
 - Upload Python scripts
 
-## Convert images to .bin
+## Edit text
+
+- Badge: badges/badge.txt
+- QR: qrcodes/qrcode.txt
+- Clippy: fortune/cookie.txt
+
+## Edit images
 
 1. Clone https://github.com/pimoroni/pimoroni-pico
 2. `python3 examples/badger2040/image_converter/convert.py --binary image.png image.bin` 
+3. cp image.bin badges/badge.bin
 
 ## User Guide
 
