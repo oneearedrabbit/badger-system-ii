@@ -25,6 +25,10 @@ before the event. Here is a list of known bugs:
 - Upload pimonori-badger2040-micropython bootloader
 - Upload Python scripts
 
+## Convert images to .bin
+
+[missing steps]
+
 ## User Guide
 
 - A button opens Badge app
