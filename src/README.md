@@ -12,7 +12,7 @@ long time.
 
 ## Known bugs
 
-I had to cut some corners, so that I could assemble a small batch
+I had to cut some corners, so that I could finish the assembly of a small batch
 before the event. Here is a list of known bugs:
 - If you open the same application twice (e.g. open QR app, open Badge
   app, and open QR app again), the device will restart and show a
@@ -24,12 +24,8 @@ before the event. Here is a list of known bugs:
   level. The device may show that a battery is empty or it is not
   plugged in.
 
-## Assembly
+## Upload steps
 
-Steps:
-- 3D print top and bottom panels.
-- Disassemble & attach a 2xCR2032 battery holder
-  https://www.adafruit.com/product/783
 - Upload pimonori-badger2040-micropython bootloader
 - Upload Python scripts
 
