@@ -6,10 +6,6 @@ This is a custom UI for Badger 2040 that I built for the Census
 engineering offsite in 2022. I aimed to recreate the iconic 1984
 Macintosh UI in a compact design.
 
-A 3D-printed case has slots for two CR2032 batteries. Badger 2040 runs
-on RPi 2040. It is energy efficient, and batteries should last for a
-long time.
-
 ## Known bugs
 
 I had to cut some corners, so that I could finish the assembly of a small batch
