@@ -4,6 +4,8 @@ Tired of boring badges that just blend in with the crowd? You want to show off y
 
 https://kruzenshtern.org/the-e-ink-badge-the-coolest-badge-you-didnt-know-you-needed/
 
+![image](https://user-images.githubusercontent.com/198995/219474204-890703d2-fb32-4299-a39b-2d434ac3f215.png)
+
 ## Source code
 
 Don't expect much, but it works (tm). See in /src.
