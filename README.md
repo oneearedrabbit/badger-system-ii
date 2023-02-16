@@ -14,12 +14,11 @@ Don't expect much, but it works (tm).
 2. Coin Cell Battery Holder: https://www.adafruit.com/product/783
 3. 2x CR2032: https://www.amazon.com/gp/product/B078GC5K81/
 4. 4x M2 8mm bolts: https://www.amazon.com/gp/product/B01BNIHG0E/
-5. 3D-printed case
+5. 3D-printed case: see /case folder
 
-## Case
+## A quick glance at assembly steps
 
-TBD
-
-## Assembly steps
-
-TBD
+1. 3D print top and bottom panels. 
+2. Disassemble & attach a 2xCR2032 battery holder https://www.adafruit.com/product/783
+3. Upload pimonori-badger2040-micropython bootloader
+4. Upload Python scripts
