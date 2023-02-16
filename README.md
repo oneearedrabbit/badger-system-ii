@@ -6,7 +6,7 @@ https://kruzenshtern.org/the-e-ink-badge-the-coolest-badge-you-didnt-know-you-ne
 
 ## Source code
 
-Don't expect much, but it works (tm).
+Don't expect much, but it works (tm). See in /src.
 
 ## Components
 
