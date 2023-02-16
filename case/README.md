@@ -10,6 +10,7 @@ Steps:
 - 3D print top and bottom panels. PLA plastic is good enough.
 - Disassemble & attach a 2xCR2032 battery holder
   https://www.adafruit.com/product/783
+- Assemble the badge, use hot glue whenever applicable
 
 ## Known bugs
 
