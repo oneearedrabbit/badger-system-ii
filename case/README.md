@@ -15,4 +15,4 @@ Steps:
 ## Known bugs
 
 - A 3D model has minor misalignments that I did not bother to fix,
-  e.g. a LED is 0.1-0.2mm off to the left.
+  e.g. a LED hole is 0.1-0.2mm off to the left.
