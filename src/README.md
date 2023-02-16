@@ -27,7 +27,8 @@ before the event. Here is a list of known bugs:
 
 ## Convert images to .bin
 
-[missing steps]
+1. Clone https://github.com/pimoroni/pimoroni-pico
+2. `python3 examples/badger2040/image_converter/convert.py --binary image.png image.bin` 
 
 ## User Guide
 
