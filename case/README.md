@@ -4,6 +4,9 @@ A 3D-printed case has a slot for two CR2032 batteries. Badger 2040 runs
 on RPi 2040. It is energy efficient, and batteries should last for a
 long time. Also comes with a battery toggle switch to shut everything down.
 
+The device is approximately 12mm thick, see below. I lost my digital
+caliper, may replace the side shot later.
+
 ## Assembly
 
 Steps:
@@ -13,6 +16,8 @@ Steps:
 - Assemble the badge, use hot glue whenever applicable
 
 ![image](https://user-images.githubusercontent.com/198995/219485328-1d66b0d7-2c20-477a-9fee-6ed1c341de5f.png)
+
+![image](https://user-images.githubusercontent.com/198995/221962577-9ab8847a-aaa5-4b5d-9cbb-67dff24e7f34.jpeg)
 
 ## Known bugs
 
