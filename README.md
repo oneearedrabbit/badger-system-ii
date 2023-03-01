@@ -25,3 +25,7 @@ Don't expect much, but it works (tm). See in /src.
 3. Assemble the badge, use hot glue whenever applicable
 4. Upload pimonori-badger2040-micropython bootloader
 5. Upload Python scripts
+
+## License
+
+TBD, see: https://github.com/oneearedrabbit/badger-system-ii/issues/1.
