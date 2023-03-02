@@ -26,7 +26,7 @@ Don't expect much, but it works (tm). See in /src.
 4. Upload pimonori-badger2040-micropython bootloader
 5. Upload Python scripts
 
-## License
+## License & acknowledgements
 
 Inspiration sources for the case:
 
