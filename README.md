@@ -51,3 +51,7 @@ Assets:
 - Other assets: hand-drawn
 
 What does it mean in terms of license? I guess, it is good for a hobby project. Hire a lawyer to check if it is good for commercial use.
+
+## From
+
+:wave: The folks at [Census](http://getcensus.com) originally put this together. Have data? We'll sync your data warehouse with your CRM and the customer success apps critical to your team.
