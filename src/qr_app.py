@@ -108,7 +108,7 @@ while True:
                 state["current_qr"] -= 1
                 changed = True
 
-        if dissplay.pressed(badger2040.BUTTON_DOWN):
+        if display.pressed(badger2040.BUTTON_DOWN):
             if state["current_qr"] < TOTAL_CODES - 1:
                 state["current_qr"] += 1
                 changed = True
