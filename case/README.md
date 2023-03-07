@@ -17,7 +17,6 @@ Steps:
 
 ## Known bugs
 
-- The top case STL is not oriented properly, see: https://github.com/oneearedrabbit/badger-system-ii/issues/5. Please mirror it in Slic3r for now! It is an easy fix, will address soon.
 - A 3D model has minor misalignments that I did not bother to fix,
   e.g. a LED hole is 0.1-0.2mm off to the left.
 
