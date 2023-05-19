@@ -34,7 +34,7 @@ Inspiration sources for the case:
 - https://www.thingiverse.com/thing:5320100/files (CC4)
 
 I ended up using an OpenSCAD blueprint by usedbytes to get measurements of the device. Reconstructed/synthesized a new case in Fusion360. Noticeable changes:
-- A different battery holder / back pannel to simplify the assembly to some extend
+- A different battery holder / back pannel to simplify the assembly to some extent
 - Two coin cells vs three
 - Added hidden buttons inspired by Känner's design
 - Back panel is inspired by Känner's design too, I like that connectors are accessible
@@ -42,7 +42,7 @@ I ended up using an OpenSCAD blueprint by usedbytes to get measurements of the d
 - Any mistakes are exclusively mine
 
 Source code:
-- To a large extend based on pimoroni Badger2040 OS example: https://github.com/pimoroni/pimoroni-pico/tree/main/micropython/examples/badger2040 (MIT)
+- To a large extent based on pimoroni Badger2040 OS example: https://github.com/pimoroni/pimoroni-pico/tree/main/micropython/examples/badger2040 (MIT)
 - Font & rendering: custom code, but it is not worth extracting it to a standalone app/library. Let's stick with MIT for simplicity too.
 
 Assets:
