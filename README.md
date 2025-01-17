@@ -10,6 +10,27 @@ https://kruzenshtern.org/the-e-ink-badge-the-coolest-badge-you-didnt-know-you-ne
 
 Don't expect much, but it works (tm). See in /src.
 
+## How to make it work?
+
+Currently, to make this project work on your Badger2040, it is unfortunately necessary to use an old version of the bootloader provided by Pimoroni (1.19.6). Soon, you will be able to use recent versions. Until then, to make it work, follow the instructions below.
+
+1. Download [`bootloader 1.19.6`](https://github.com/pimoroni/pimoroni-pico/releases/tag/v1.19.6)
+2. Initialize Badger2040 in **boot mode** (press the `bootsel` button while connecting the USB-C cable)
+3. Move the `pimoroni-badger2040-v1.19.6-micropython-without-badger-os.uf2` file to the `RPI-RP2` mounted drive ![Boot mode to flash MicroPython firmware](docs/boot-mode-flash-firmware.png)
+4. Open Thonny (the editor used with MicroPython for Raspberry Pi Pico)
+5. Select the correct board, usually `MicroPython (Raspberry Pi Pico)` ![Select correct board on Thonny](docs/thonny-select-board.png)
+6. Select the menu `View` and then `Files`
+   1. If any, select all the files from your Badger2040 and delete them
+7. Select all files from this on your computer and right-click
+8. Select `Upload to /` ![Upload files to Badger2040](docs/upload-files-to-badger.png)
+9. After finishing the upload, you should see all your files under the widget `Raspberry Pi Pico` on the bottom-left widget ![Files uploaded to the Badger](docs/files-uploaded.png)
+10. To finish, go to the menu `Run` and then `Send EOF / Soft Reboot`
+
+You can edit all the files directly from the board using Thonny; however, after saving, it is common to receive an error from Thonny saying::
+`Device is busy -- can't perform this action now. Please wait or cancel current work and try again!`
+
+If this happens, just re-select the board on the board list (bottom-right).
+
 ## Components
 
 1. Badger 2040: https://shop.pimoroni.com/products/badger-2040
@@ -20,7 +41,7 @@ Don't expect much, but it works (tm). See in /src.
 
 ## A quick glance at assembly steps
 
-1. 3D print top and bottom panels. 
+1. 3D print top and bottom panels.
 2. Disassemble & attach a 2xCR2032 battery holder
 3. Assemble the badge, use hot glue whenever applicable
 4. Upload pimonori-badger2040-micropython bootloader
